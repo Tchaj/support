@@ -16,7 +16,7 @@ common:
 			errorPresenter: Error
 
 		database:
-			dsn: 'mysql:host=localhost;dbname=support'
+			dsn: 'mysql:host=localhost;dbname=test'
 			user:
 			password:
 
