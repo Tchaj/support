@@ -1,0 +1,5 @@
+# Ignore Nette temp files #
+temp/*.*
+
+# Ignore PHPUnit tests directory
+tests/coverage
